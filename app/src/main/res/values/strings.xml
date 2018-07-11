@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My BMI Calculator</string>
+    <string name="weight">Weight</string>
+    <string name="height">Height</string>
+    <string name="cal">Calculate</string>
+    <string name="rst">reset data</string>
+    <string name="CalDate">Last Calculated Date:</string>
+    <string name="CalBMI">Last Calculated BMI: 0.0</string>
+</resources>
